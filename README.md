@@ -119,7 +119,10 @@ O modelo atingiu **73% de acurácia** resultado razoável para uma Random Forest
 
 O **Recall de 0.71 para sobreviventes** indica que o modelo identificou corretamente 70% dos que realmente sobreviveram os 30% restantes foram classificados incorretamente como não sobreviventes.
 
-Como próximos passos, seria interessante realizar a otimização de hiperparâmetros (como n_estimators e max_depth), testar algoritmos de Gradient Boosting (como XGBoost ou LightGBM) ou reavaliar o impacto de manter a coluna SibSp ou criar novas features para melhorar o desempenho na classe dos sobreviventes.
+
+<img width="497" height="385" alt="image" src="https://github.com/user-attachments/assets/6ac12034-b3ee-4f56-9dfa-20b8ee3fad9b" />
+
+- Como próximos passos, seria interessante realizar a otimização de hiperparâmetros (como n_estimators e max_depth), testar algoritmos de Gradient Boosting (como XGBoost ou LightGBM) ou reavaliar o impacto de manter a coluna SibSp ou criar novas features para melhorar o desempenho na classe dos sobreviventes.
 ---
 
 ## Tecnologias Utilizadas
