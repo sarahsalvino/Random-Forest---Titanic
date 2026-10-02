@@ -139,7 +139,7 @@ O **Recall de 0.71 para sobreviventes** indica que o modelo identificou corretam
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/sarahsalvino/Random-Forest---Titanic.git)
 ```
 
 2. Instale as dependências
